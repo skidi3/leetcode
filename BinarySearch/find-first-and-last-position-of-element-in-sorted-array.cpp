@@ -7,7 +7,7 @@ Follow up: Could you write an algorithm with O(log n) runtime complexity?
 
 Solution:
 
-/*
+*/
 
 class Solution {
 public:
